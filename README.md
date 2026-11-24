@@ -1,7 +1,7 @@
 # Faith Vision Board
 A faith-based vision board that combines personal goals, visual inspiration and Bible scripture.
 
-Most generic vision-board products concentrate on manifestation, lifestyle goals, motivation and aesthetics. This free app introduces a distinctly Christian framework. Instead of simply collecting images of things someone wants, users can ground those aspirations in scripture. This grounding enables more focused and confident prayer.
+Many vision-board products concentrate on manifestation. This app uses visualization in a Christian framework. Instead of collecting images of things they want and then trying to get it through mental effort, users can ground their desires in scripture. This grounding creates a confidence that you will receive what you want because the Bible says it's yours already. This scripturally grounded confident expectation of good is called faith.
 
 Live Demo:<br>
 https://vision-board.woza.work/
