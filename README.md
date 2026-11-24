@@ -7,7 +7,7 @@ Live Demo:<br>
 https://vision-board.woza.work/
 
 - Simple to use.
-- Uses browser storage. No user data sent to the cloud.
+- The board is saved locally in the browser, rather than requiring users to upload personal photographs and spiritual reflections to an online account.
 - Download a photo of the entire vision board.
 - Single file web app - html, css and js.
 
