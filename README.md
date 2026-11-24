@@ -21,6 +21,13 @@ https://vision-board.woza.work/
 
 <br>
 
+## How to run the app
+- Downlod the project folder.
+- Double click the ```index.html``` file.
+- The app will open in your browser.
+
+<br>
+
 ## Related Projects
 - Faith Scrolling<br>
 https://faithscrolling.com/
