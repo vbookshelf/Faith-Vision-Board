@@ -1,5 +1,7 @@
 # Faith Vision Board
-An online faith vision board that uses local browser storage. Images and data never leave the user's device.
+A faith-based vision board that combines personal goals, visual inspiration and Bible scripture.
+
+Most generic vision-board products concentrate on manifestation, lifestyle goals, motivation and aesthetics. This free app introduces a distinctly Christian framework. Instead of simply collecting images of things someone wants, users can ground those aspirations in scripture. This grounding enables more focused and confident prayer.
 
 Live Demo:<br>
 https://vision-board.woza.work/
