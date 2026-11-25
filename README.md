@@ -23,6 +23,11 @@ https://vision-board.woza.work/
 
 <br>
 
+<img src="images/image5.png" alt="Picture os vision board" height="700">
+<p>Download a picture of the entire board</p>
+
+<br>
+
 ## How to run the app
 - Downlod the project folder.
 - Double click the ```index.html``` file.
