@@ -58,6 +58,7 @@ Version 1.0<br>
 - Added link to faithscrolling.com
 - New cards now appear appear at the end instead of at the beginning.
 - Removed the layout change status message.
+- Changed two of the example vision cards.
 
 
 Version 1.0<br>
