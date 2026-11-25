@@ -56,6 +56,8 @@ Version 1.0<br>
 
 - User's can now add multiple scriptures to a vision card.
 - Added link to faithscrolling.com
+- New cards now appear appear at the end instead of at the beginning.
+- Removed the layout change status message.
 
 
 Version 1.0<br>
