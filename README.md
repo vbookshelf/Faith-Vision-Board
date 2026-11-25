@@ -47,5 +47,14 @@ https://gospelbot.com/
 ## Revision History
 
 Version 1.0<br>
+25-Nov-2026<br>
+
+- User's can now add multiple scriptures to a vision card.
+
+
+Version 1.0<br>
 24-Nov-2026<br>
 First release.
+
+<br>
+
