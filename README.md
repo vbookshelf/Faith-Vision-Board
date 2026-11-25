@@ -51,7 +51,12 @@ https://gospelbot.com/
 
 ## Revision History
 
-Version 1.0<br>
+Version 1.2<br>
+25-Nov-2026<br>
+
+- Fixed issues flagged in code review.
+
+Version 1.1<br>
 25-Nov-2026<br>
 
 - User's can now add multiple scriptures to a vision card.
