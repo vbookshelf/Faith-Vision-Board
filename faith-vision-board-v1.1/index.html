@@ -1454,7 +1454,7 @@
           })
           .filter(Boolean);
         queueMasonryLayout();
-        if (saveItems()) showToast("Layout saved in this browser");
+        saveItems();
       }
 
       // Lightbox functions
@@ -2009,7 +2009,7 @@
             item.id === editingId ? { ...item, image, scriptures, notes } : item
           );
         } else {
-          items.unshift({
+          items.push({
             id: "v-" + Date.now() + "-" + Math.random().toString(36).slice(2, 7),
             col: shortestColumn(),
             image,
