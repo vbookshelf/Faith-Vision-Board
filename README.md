@@ -50,6 +50,7 @@ Version 1.0<br>
 25-Nov-2026<br>
 
 - User's can now add multiple scriptures to a vision card.
+- Added link to faithscrolling.com
 
 
 Version 1.0<br>
