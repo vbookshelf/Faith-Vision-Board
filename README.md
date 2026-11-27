@@ -7,9 +7,10 @@ Live Demo:<br>
 https://vision-board.woza.work/
 
 - Simple to use.
-- The board is saved locally in the browser. Users don't need to upload personal photographs and spiritual reflections to an online account.
-- Download a photo of the entire vision board.
-- Single file web app - html, css and js.
+- The board is saved locally in the browser. You don't need to upload personal photographs and spiritual reflections to an online account.
+- You can save a png photo of the entire vision board.
+- A single file web app - html, css and js.
+- No installation needed. Simply double-click the index.html file to launch from your desktop. The app will open in your browser. You can also use the online version.
 
 <br>
 
